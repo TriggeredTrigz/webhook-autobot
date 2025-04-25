@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.github.TriggeredTrigz</groupId>
 	<artifactId>webhook-autobot</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>Webhook Automation for Bajaj</name>
 	<description>Webhook automation application for Bajaj Finserv Programming Challenge SRM April&apos;25</description>
 	<url/>
